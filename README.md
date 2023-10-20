@@ -11,5 +11,5 @@
 ## You can reach me
 ![](https://img.shields.io/badge/jonathan.almeida@sptech.school-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username={jonatao37}&theme={monokai}
+
  
