@@ -1,7 +1,7 @@
 # hey, I’m Jonathan 
 
 ## I am currenly learning...
-[![My Skills](https://skills.thijs.gg/icons?i=kotlin,py,r)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=kotlin,py,r,docker)](https://skills.thijs.gg)
 
 
 ### I’ve learned:
